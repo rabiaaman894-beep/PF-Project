@@ -1,1 +1,40 @@
 
+# C++ Compiled Files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Build Directories
+build/
+bin/
+Debug/
+Release/
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Program Generated Data Files
+assignments.txt
+
+# Temporary & Backup Files
+*.log
+*.tmp
+*.bak
+*~
+
+
+# CMake / Make Files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+

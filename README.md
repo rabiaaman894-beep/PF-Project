@@ -27,7 +27,7 @@ It provides a **simple menu-driven interface** suitable for students.
 ---
 
 ##  Features
-- Add new assignments  
+- Added new assignments  
 - View assignment list with deadlines and status  
 - Mark assignments as completed  
 - Automatic saving and loading of assignments  
